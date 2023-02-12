@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <b>Let's connect and chat! Open to anything under the sun.</b>
   </br>
 
 <a href="https://twitter.com/Sanjaya00002">
