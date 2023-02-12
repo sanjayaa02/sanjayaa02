@@ -44,9 +44,6 @@
   <img align="left" alt="Sanjaya's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />
 </a>
 
-<br />
-<br />
 
-</P>
 ⭐️ From [Sanjay-Nayak](https://sanjayy.netlify.app/)
 
