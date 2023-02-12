@@ -1,4 +1,4 @@
-### <h2>नमस्ते (Namaste)🙏🏻, I'm Sanjay!
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Sanjaya!
   </br>
 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
@@ -28,13 +28,24 @@
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-    <a href="https://twitter.com/Sanjaya00002" alt="Twitter">Twitter 🦄</a>     
-    <a href="https://www.linkedin.com/in/sanjaya-nayak-460538263/" alt="Linkedin">Linkedin🌻</a>
-  <a href="https://www.instagram.com/sj_sanjaya_02/" alt="Facebook">Facebook 😍</a>
-    <a href="mailto:sanjayanayak00002@gmail.com" alt="Contact me">Email 📧</a>
-    <a href="https://sanjayy.netlify.app" alt="My site">My Site 🔗</a>
-  </p>
+  <a href="https://twitter.com/Sanjaya00002">
+  <img align="left" alt="Sanjaya's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sanjaya-nayak-460538263/">
+  <img align="left" alt="Sanjaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/sj_sanjaya_02">
+  <img align="left" alt="Sanjaya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/sj.sanjaya.02">
+  <img align="left" alt="Sanjaya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.kaggle.com/sanjayakumarnayak/">
+  <img align="left" alt="Sanjaya's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />
+</a>
 
-⭐️ From [Sanjay-Nayak](https://github.com/Sanjayaa02)
+<br />
+<br />
+
+⭐️ From [Sanjay-Nayak](https://sanjayy.netlify.app/)
 
