@@ -4,8 +4,8 @@
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
-- 🌱 I’m currently learning **C++ and Python.**
+- 🔭 I’m currently more into the **Programming**</br>
+- 🌱 I’m currently learning **C++ and Python.**</br>
 - 💬 let's talkabout **Technology, Troubleshooting , Gaming , Photography.**
 
 
