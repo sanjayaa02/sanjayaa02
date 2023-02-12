@@ -49,7 +49,7 @@
   <img align="center" alt="Sanjaya's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />
 </a>
 &nbsp
-<a href="mailto.sanjayanayak00002@gmail.com">
+<a href="mailto:sanjayanayak00002@gmail.com">
   <img align="center" alt="Sanjaya's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 
